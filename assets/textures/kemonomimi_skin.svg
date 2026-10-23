@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" shape-rendering="crispEdges">
+    <!-- Head -->
+    <rect x="16" y="0" width="32" height="32" fill="#F5F5F5" />
+    <!-- Hair -->
+    <rect x="16" y="0" width="32" height="4" fill="#FFFFFF" />
+    <!-- Cat Ears -->
+    <rect x="12" y="4" width="4" height="4" fill="#FFFFFF" />
+    <rect x="48" y="4" width="4" height="4" fill="#FFFFFF" />
+    <rect x="14" y="6" width="2" height="2" fill="#FFC0CB" />
+    <rect x="50" y="6" width="2" height="2" fill="#FFC0CB" />
+    <!-- Eyes -->
+    <rect x="20" y="12" width="2" height="2" fill="#8A2BE2" />
+    <rect x="38" y="12" width="2" height="2" fill="#8A2BE2" />
+    <!-- Mouth -->
+    <rect x="24" y="16" width="16" height="2" fill="#FFC0CB" />
+    <!-- Hoodie -->
+    <rect x="20" y="32" width="24" height="16" fill="#FFC0CB" />
+    <rect x="20" y="32" width="24" height="2" fill="#FFFFFF" />
+    <rect x="20" y="48" width="24" height="2" fill="#FFFFFF" />
+    <rect x="20" y="36" width="2" height="12" fill="#FFFFFF" />
+    <rect x="42" y="36" width="2" height="12" fill="#FFFFFF" />
+    <!-- T-Shirt -->
+    <rect x="20" y="48" width="24" height="16" fill="#FFFFFF" />
+    <rect x="20" y="48" width="24" height="2" fill="#FFC0CB" />
+    <!-- Cargo Pants -->
+    <rect x="20" y="64" width="24" height="16" fill="#F5F5F5" />
+    <rect x="20" y="64" width="24" height="2" fill="#FFC0CB" />
+    <rect x="20" y="78" width="24" height="2" fill="#FFC0CB" />
+    <!-- Sneakers -->
+    <rect x="20" y="80" width="24" height="8" fill="#FFFFFF" />
+    <rect x="20" y="80" width="24" height="2" fill="#98FB98" />
+    <rect x="20" y="86" width="24" height="2" fill="#FFC0CB" />
+    <!-- Cat Tail -->
+    <rect x="44" y="64" width="4" height="16" fill="#FFFFFF" />
+</svg>
